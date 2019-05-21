@@ -12,3 +12,13 @@ I have a variety of "starter kit" repositories for various project types. When I
 1. runs `git add .`
 1. runs `git commit - m "initial commit"`
    THE END
+
+## Installation/Use
+
+This project you can just clone directly. Feel free to throw away the `.git` folder. I like to store this at the root of my node development folder. You will need to make the script executable so from the terminal
+
+```bash
+chmod +x start-new-project.sh
+## to run it then just
+./start-new-project.sh
+```
